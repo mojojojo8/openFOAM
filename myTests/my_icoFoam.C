@@ -51,7 +51,7 @@ int main(int argc, char *argv[])
 
     while (runTime.loop())
     {
-        Info<< "Time RB QtCreator Hurrraa 1234  = " << runTime.timeName() << nl << endl;
+        Info<< "Time RB QtCreator Hurrraa 1234  5678= " << runTime.timeName() << nl << endl;
 
         #include "CourantNo.H"
 
